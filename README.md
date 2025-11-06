@@ -32,7 +32,7 @@ Each file contains origin–destination pairs of municipalities and the estimate
 
 Geographic boundaries of Senegalese municipalities used to map mobility matrices and charcaterize Urban/Rural areas.
 
-###3. Population Data (population_2013.csv)
+### 3. Population Data (population_2013.csv)
 
 Census data from the 2013 Senegal population census, used for model initialization.
 
