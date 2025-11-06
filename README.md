@@ -35,3 +35,8 @@ Geographic boundaries of Senegalese municipalities used to map mobility matrices
 3. Population Data (population_2013.csv)
 
 Census data from the 2013 Senegal population census, used for model initialization.
+
+
+If you use these data, please cite as:
+
+Pullano, G., Bansal, S., Rubrichi, S., & Colizza, V. (2025). Mobility Resolution Needed to Inform Predictive Epidemic Models for Spatial Transmission from Mobile Phone Data. medRxiv, 2024.10.11.24315335 (2024).
