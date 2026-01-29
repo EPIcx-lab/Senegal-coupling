@@ -13,11 +13,11 @@ This repository contains the datasets supporting the paper: [Mobility resolution
 
 The study analyzes how different definitions and aggregation levels of human mobility extracted from mobile phone data affect the spatial spread of infectious diseases. Using anonymized mobility trajectories from Orange mobile phone users in Senegal, three epidemiological coupling definitions are compared:
 
-D: Displacement-based (high resolution)
+HR: High-resolution
 
-L: Location-based (medium resolution)
+MR: Medium-resolution
 
-C: Most visited location-based (low resolution)
+LR: Low-resolution
 
 These couplings are integrated into a stochastic SEIR metapopulation model to assess epidemic diffusion under varying mobility resolutions.
 
